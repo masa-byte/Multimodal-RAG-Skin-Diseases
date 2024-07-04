@@ -1,0 +1,22 @@
+{
+    "venous-lake": 11.5,
+    "erythema-ab-igne": 11.0,
+    "actinic-comedones": 10.0,
+    "tinea-beard": 10.0,
+    "nail-fungus": 9.5,
+    "cutaneous-larva-migrans": 9.0,
+    "athlete's-foot": 7.0,
+    "melanotic-macule": 7.0,
+    "spider-angioma": 4.5,
+    "chickenpox": 3.0,
+    "rosacea": 2.8708133971291865,
+    "ringworm": 2.5,
+    "hidrocystoma": 1.5,
+    "perleche": 1.5,
+    "impetigo": 1.0,
+    "sycosis-barbae": 1.0,
+    "cellulitis": 0.5,
+    "herpes": 0.5,
+    "skin-tags": 0.5,
+    "basal-cell-carcinoma": 0.0
+}

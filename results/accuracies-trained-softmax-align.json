@@ -1,0 +1,22 @@
+{
+    "rosacea": 15.789473684210526,
+    "nail-fungus": 10.0,
+    "athlete's-foot": 9.5,
+    "spider-angioma": 7.5,
+    "erythema-ab-igne": 7.0,
+    "ringworm": 6.5,
+    "sycosis-barbae": 6.0,
+    "melanotic-macule": 5.5,
+    "venous-lake": 4.5,
+    "tinea-beard": 4.0,
+    "actinic-comedones": 3.5,
+    "chickenpox": 3.5,
+    "cutaneous-larva-migrans": 3.5,
+    "impetigo": 2.5,
+    "cellulitis": 1.0,
+    "basal-cell-carcinoma": 0.0,
+    "herpes": 0.0,
+    "hidrocystoma": 0.0,
+    "perleche": 0.0,
+    "skin-tags": 0.0
+}
