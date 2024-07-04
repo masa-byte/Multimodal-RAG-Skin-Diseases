@@ -1,0 +1,12 @@
+fastapi==0.111.0
+numpy==2.0.0
+pandas==2.2.2
+Pillow==10.4.0
+protobuf==5.27.2
+pydantic==2.8.1
+qdrant_client==1.10.0
+Requests==2.32.3
+streamlit==1.35.0
+torch==2.3.1+cu121
+torchvision==0.18.1+cu121
+transformers==4.41.2

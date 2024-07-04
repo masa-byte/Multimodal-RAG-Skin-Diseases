@@ -1,0 +1,12 @@
+version: "3.1"
+
+
+services:
+  qdrantdb: 
+    image: qdrant/qdrant:latest
+    container_name: qdrantdb
+    ports:
+      - "6333:6333"
+    volumes:
+      - ./volumes/qdrant_storage:/qdrant/storage
+    
