@@ -12,7 +12,7 @@ Data was collected from four different datasets on Kaggle. The datasets are:
 1. https://www.kaggle.com/datasets/haroonalam16/20-skin-diseases-dataset
 2. https://www.kaggle.com/datasets/riyaelizashaju/skin-disease-classification-image-dataset
 3. https://www.kaggle.com/datasets/ismailpromus/skin-diseases-image-dataset
-4. vhttps://www.kaggle.com/dsv/6695743
+4. https://www.kaggle.com/dsv/6695743
 Images were also collected from DermNet.
 After collecting the images, two texts were written for each disease. The first text was a rich and detailed description of the disease, inlcuding causes, skin and general symptoms, potential causes, risk groups, and next steps. The second text contained only skin symptoms of diseases, because that is what similarity search is based on. The texts were written by me through an extensive research on the internet.
 Images were augmented in order to increase the size of the dataset. The augmented images are then stored in the vector database, along with the texts.
